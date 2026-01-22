@@ -13,8 +13,7 @@ A simple console-based implementation of the classic **Rock, Paper, Scissors** g
    - Paper beats Rock
 
 ## 🕹️ Live Demo
-You can play the game directly in your browser here:
-[Play Rock-Paper-Scissors on Replit](ТУК_ПОСТАВИ_ТВОЯ_ЛИНК_ОТ_REPLIT)
+Play the game here: [Rock-Paper-Scissors on Replit]  https://replit.com/@BarbutovB/RockPaperScissors
 
 ## 🛠️ Technologies Used
 - Python 3
