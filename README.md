@@ -1,6 +1,6 @@
 
 # Rock-Paper-Scissors Game 🎮
-
+![Rules](./rules.png)
 A simple console-based implementation of the classic **Rock, Paper, Scissors** game, written in **Python**.
 
 ## 🚀 How to Play
