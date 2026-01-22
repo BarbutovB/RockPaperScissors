@@ -1,8 +1,9 @@
 
 # Rock-Paper-Scissors Game 🎮
 ![Rules](./rules.png)
-A simple console-based implementation of the classic **Rock, Paper, Scissors** game, written in **Python**.
 
+
+A simple console-based implementation of the classic **Rock, Paper, Scissors** game, written in **Python**.
 ## 🚀 How to Play
 1. The game asks you to choose: **[r]ock**, **[p]aper**, or **[s]cissors**.
 2. The computer randomly picks its move.
